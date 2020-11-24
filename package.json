@@ -1,5 +1,5 @@
 {
-  "name": "vuepress-theme-ixdf",
+  "name": "@interaction_design_foundation/vuepress-theme-ixdf",
   "version": "0.0.1",
   "description": "Custom vuepress theme for IxDF projects.",
   "main": "index.js",
