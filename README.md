@@ -1,7 +1,9 @@
 # vuepress-theme-ixdf
 
-<img src="https://img.shields.io/npm/dt/@interaction_design_foundation/vuepress-theme-ixdf?style=flat-square" alt="Downloads">
-<img src="https://img.shields.io/github/package-json/v/InteractionDesignFoundation/vuepress-theme-ixdf?style=flat-square" alt="Version">
+<p>
+  <img src="https://img.shields.io/npm/dt/@interaction_design_foundation/vuepress-theme-ixdf?style=flat-square" alt="Downloads">
+  <img src="https://img.shields.io/github/package-json/v/InteractionDesignFoundation/vuepress-theme-ixdf?style=flat-square" alt="Version">
+</p>
 
 A custom IxDF theme for Vuepress
 ## Quick start
